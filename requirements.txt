@@ -1,2 +1,5 @@
-pandas
-PIL
+pdf2image
+pillow
+requests
+condacolab
+poppler
